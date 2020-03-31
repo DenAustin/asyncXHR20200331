@@ -41,3 +41,8 @@ document.getElementById("button").addEventListener("click", function(){
 //4: request finished and response is ready
 
 document.createElement("<input>").value="input"
+
+// map ((item) => {
+//    console.log()
+  
+// })
